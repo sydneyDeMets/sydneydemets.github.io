@@ -1,7 +1,7 @@
 ---
-title: "Cat Sightings"
-description: "Some photos of the cats who evaded my embrace and elicited my love."
+title: "Glimpsing cats on my walks."
 ---
+Je ne me souviens pas d’un temps quand j’ai vu un chat et je n’ai pas arrêté pour lui regarder. 
 
 ![Photo 01](/assets/2022-11-01-chrysanthemum-show/Photo01.jpg)
 
