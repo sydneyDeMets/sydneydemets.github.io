@@ -54,13 +54,13 @@ a {
 }
 
 a:hover {
-  background: linear-gradient(to right, #e74c3c 14%,
-                                        #e67e22 14%, #e67e22 29%,
-                                        #f1c40f 29%, #f1c40f 43%,
-                                        #2ecc71 43%, #2ecc71 57%,
-                                        #1abc9c 57%, #1abc9c 71%,
-                                        #3498db 71%, #3498db 86%,
-                                        #9b59b6 86%);
+  background: linear-gradient(to right, #e7870a 14%,
+                                        #615a32 14%, #a07822 29%,
+                                        #406d16 29%, #406d16a4 43%,
+                                        #b3bd2c 43%, #b3cc26b4 57%,
+                                        #79969b 57%, #7794a0cb 71%,
+                                        #d0e9ee 71%, #d5eaf8b4 86%,
+                                        #060407 86%);
   background-size: 80px auto;
   text-shadow: 1px 1px 1px #000;
 }
