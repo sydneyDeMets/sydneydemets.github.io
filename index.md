@@ -8,6 +8,6 @@ description: "Researcher interested in information diffusion. Skier who is inves
 
 - *Full name:* Sydney DeMets
 - *Current location:* Seattle, WA
-- *Professionally:* Stares at dots and lines and thinks about false and misleading information.
-- *Amateurishly:* Climbing mountains. On good days, skiing down them.
+- *Professionally:* PhD candidate in Information Science. I think about the multimodal diffusion of false and misleading information from a social networks perspective.
+- *Amateurishly:* Climbing up mountains. On good days, skiing down them.
 - *Contact:* sdemets@uw.edu
