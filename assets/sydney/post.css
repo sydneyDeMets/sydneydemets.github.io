@@ -1,0 +1,40 @@
+.site-title {
+  font-family: "jaf-domus", sans-serif;
+  font-weight: 800;
+  font-size: 40px;
+}
+
+.site-title:hover {
+  color: #e74c3c;
+}
+
+.site-title:hover .c1 {
+  color: #e74c3c;
+}
+
+.site-title:hover .c2 {
+  color: #e67e22;
+}
+
+.site-title:hover .c3 {
+  color: #f1c40f;
+}
+
+.site-title:hover .c4 {
+  color: #2ecc71;
+}
+
+.site-title:hover .c5 {
+  color: #3498db;
+}
+
+.site-title:hover .c6 {
+  color: #9b59b6;
+}
+
+.post-content img {
+  display: block;
+  max-width: 100%;
+  max-height: 700px;
+  margin: 0 auto;
+}

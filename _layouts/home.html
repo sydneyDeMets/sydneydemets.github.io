@@ -1,0 +1,48 @@
+---
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ "/apple-touch-icon.png" | relative_url }}">
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ "/favicon-32x32.png" | relative_url }}">
+  <link rel="icon" type="image/png" sizes="16x16" href="{{ "/favicon-16x16.png" | relative_url }}">
+  <link rel="manifest" href="{{ "/site.webmanifest" | relative_url }}">
+  
+  {%- seo -%}
+
+  <script src="https://use.typekit.net/vel4bvl.js"></script>
+  <script>try{Typekit.load({ async: true });}catch(e){}</script>
+
+  <link rel="stylesheet" href="{{ "/assets/sydney/styles.css" | relative_url }}">
+  
+  {%- feed_meta -%}
+</head>
+<body>
+  <div class="sydney"><span>sydney</span></div>
+  <div class="container">
+    {{ content }}
+
+    <h1>Blog posts: <a href="{{ "/blog/" | relative_url }}" title="View all blog posts" class="view-all">(view all)</a></h1>
+    <ul>
+      {%- for post in site.posts -%}
+      <li><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></li>
+      {%- endfor -%}
+      <!-- <li><a href="javascript:void(0)" target="_blank">Adventures in Costa Rica</a></li>
+      <li><a href="javascript:void(0)" target="_blank">Finite State Automata</a></li>
+      <li><a href="javascript:void(0)" target="_blank">Building a Bicycle</a></li>
+      <li><a href="javascript:void(0)" target="_blank">Syringe Art</a></li>
+      <li><a href="javascript:void(0)" target="_blank">Learning to Knit</a></li>
+      <li><a href="javascript:void(0)" target="_blank">Playing with Rainbows</a></li>
+      <li><a href="javascript:void(0)" target="_blank">Staying on Task</a></li>
+      <li><a href="javascript:void(0)" target="_blank">Starting a Blog</a></li> -->
+    </ul>
+  </div>
+
+  <script src="{{ "/assets/sydney/main.js" | relative_url }}"></script>
+</body>
+</html>

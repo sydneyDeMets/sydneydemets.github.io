@@ -1,0 +1,149 @@
+html {
+  position: relative;
+  z-index: 1;
+  background: #2c3e50;
+  color: #fff;
+  font-family: "roboto-mono", monospace;
+  font-size: 18px;
+}
+
+body {
+  margin: 0;
+}
+
+canvas {
+  position: fixed;
+  z-index: 2;
+  left: 0;
+  top: 0;
+  display: block;
+}
+
+.sydney {
+  position: relative;
+  z-index: 3;
+  padding-top: 32px;
+  text-align: center;
+  font-family: "jaf-domus", sans-serif;
+  font-size: 128px;
+  font-weight: 800;
+  color: #fff;
+}
+
+.container {
+  position: relative;
+  z-index: 3;
+  margin: 16px auto;
+  padding: 0 20px;
+  max-width: 600px;
+}
+
+.view-all {
+  font-size: 18px;
+}
+
+h1 {
+  margin: 0;
+  font-size: 1.5rem;
+  font-weight: 500;
+}
+
+a {
+  color: #fff;
+  text-decoration: underline;
+}
+
+a:hover {
+  background: linear-gradient(to right, #e74c3c 14%,
+                                        #e67e22 14%, #e67e22 29%,
+                                        #f1c40f 29%, #f1c40f 43%,
+                                        #2ecc71 43%, #2ecc71 57%,
+                                        #1abc9c 57%, #1abc9c 71%,
+                                        #3498db 71%, #3498db 86%,
+                                        #9b59b6 86%);
+  background-size: 80px auto;
+  text-shadow: 1px 1px 1px #000;
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 40px;
+}
+
+ul li {
+  position: relative;
+}
+
+ul li::before {
+  content: '- ';
+  position: absolute;
+  display: inline-block;
+  top: 0;
+  left: -20px;
+  font-weight: 700;
+}
+
+ul li:nth-child(7n+1)::before {
+  color: #e74c3c;
+}
+
+ul li:nth-child(7n+2)::before {
+  color: #e67e22;
+}
+
+ul li:nth-child(7n+3)::before {
+  color: #f1c40f;
+}
+
+ul li:nth-child(7n+4)::before {
+  color: #2ecc71;
+}
+
+ul li:nth-child(7n+5)::before {
+  color: #1abc9c;
+}
+
+ul li:nth-child(7n+6)::before {
+  color: #3498db;
+}
+
+ul li:nth-child(7n+7)::before {
+  color: #9b59b6;
+}
+
+
+@media screen and (max-width: 700px) {
+  .sydney {
+    font-size: 112px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .sydney {
+    font-size: 96px;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  html {
+    font-size: 16px;
+  }
+
+  .sydney {
+    font-size: 80px;
+  }
+
+  ul {
+    padding-left: 20px;
+  }
+
+  ul li::before {
+    left: -16px;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .sydney {
+    font-size: 64px;
+  }
+}
