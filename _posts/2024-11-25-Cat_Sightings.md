@@ -7,7 +7,7 @@ Je ne me souviens pas d’un temps quand j’ai vu un chat et je n’ai pas arr�
 
 ![Photo 01](/assets/2024-11-25_Glimpses_of_Cats/IMG_1242.jpeg)
 
-The cats above and below are two different cats. The one pictured above would greet me on my evening walks while I was living in Los Alamos. The cat in question was affectionate and gregarious, a possible consequence of residing in a bed of catnip. The cat below is also an outdoor cat that favors my neighborhood. He is called Goose by my friends. He never lets me pet him and lets his gaze settle on me then slip away: I think him too evasive for a blunt and happy name.
+The cats above and below are two different cats. The one pictured above would greet me on my evening walks while I was living in Los Alamos. The cat in question was affectionate and gregarious, a possible consequence of residing in a bed of catnip. The cat below is also an outdoor cat that favors my current neighborhood in Seattle. He is called Goose by my friends. He never lets me pet him and lets his gaze settle on me then slip away: I think him too evasive for such a blunt and happy name.
 
 ![Photo 02](/assets/2024-11-25_Glimpses_of_Cats/IMG_1760.jpeg)
 
