@@ -9,7 +9,7 @@
                 '#1abc9c', '#16a085', // Turquoise
                 '#3498db', '#2980b9', // Blue
                 '#9b59b6', '#8e44ad', // Purple
-                '#e74c3c', '#c0392b', // Red
+                '#000000', '#000000', // Black
                 '#e67e22', '#d35400', // Orange
                 '#f1c40f', '#f39c12'];// Yellow
 
