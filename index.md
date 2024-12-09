@@ -8,7 +8,7 @@ description: "Researcher interested in information diffusion. Skier who is inves
 
 - *Full name:* Sydney DeMets
 - *Current location:* Seattle, WA
-- *Professionally:* PhD candidate in Information Science. I research the ways that medium alters the diffusion of false and misleading information using a social networks perspective.
+- *Professionally:* PhD candidate in Information Science. I particularly research the ways that medium alters the diffusion of false, unverified, and misleading information using methods from computational social science and statistical network analysis. I find many strains of false, unverified, and misleading information interesting, yet I am most compelled by rumors in crisis events.
 - *Amateurishly:* Climbing up mountains. On good days, skiing down them.
 - *Contact:* sdemets@uw.edu
 
