@@ -8,6 +8,10 @@ description: "Researcher interested in information diffusion. Skier who is inves
 
 - *Full name:* Sydney DeMets
 - *Current location:* Seattle, WA
-- *Professionally:* PhD candidate in Information Science. I think about the multimodal diffusion of false and misleading information from a social networks perspective.
+- *Professionally:* PhD candidate in Information Science. I research the ways that medium alters the diffusion of false and misleading information using a social networks perspective.
 - *Amateurishly:* Climbing up mountains. On good days, skiing down them.
 - *Contact:* sdemets@uw.edu
+
+# Selected publications:
+
+- **Sydney DeMets**, Emma Spiro. Podcasts in the Periphery: Tracing Guest Trajectories in Political Podcasts *(In Review)*.
