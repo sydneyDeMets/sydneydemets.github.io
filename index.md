@@ -13,6 +13,6 @@ description: "Researcher interested in information diffusion. Skier who is inves
 - *Amateurishly:* Climbing up mountains. On good days, skiing down them.
 - *Contact:* sdemets@uw.edu
 
-# Selected talks and publications:
+# Selected publications:
 
 - **Sydney DeMets**, Emma Spiro. Podcasts in the Periphery: Tracing Guest Trajectories in Political Podcasts *(In Review)*.
