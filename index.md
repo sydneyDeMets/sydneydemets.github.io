@@ -14,6 +14,6 @@ description: "Researcher interested in information diffusion. Skier who is inves
 
 # Selected publications and presentations:
 
-- **Sydney DeMets**, Emma Spiro. Podcasts in the Periphery: Tracing Guest Trajectories in Political Podcasts *(In Review)*.
+- **Sydney DeMets**, Emma Spiro. Podcasts in the Periphery: Tracing Guest Trajectories in Political Podcasts. Social Networks *(In Review)*.
 - **Sydney DeMets**, Emma Spiro. “Radio, What’s New? ”Key actors, weak ties, and the spread of disinformation in a podcast network”. International Network for Social Network Analysis Sunbelt (2023)
 - **Sydney DeMets**, Emma Spiro. “Understanding guest entrances into the podcast ecosystem”. NetSci (2023)
