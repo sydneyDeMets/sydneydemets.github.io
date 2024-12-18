@@ -5,13 +5,13 @@
 
   var sydney = document.getElementsByClassName('sydney')[0];
 
-  var colors = ['#fcfcf0','#fcfcfa', // pale pink
-                "#fcfbc0", "#fffea8", // Turquoise
-                "#fcfaa4" ,"#fcf560", // Blue
-                "#f7e62d", "#fada0a", // Purple
-                "#f7dc57", '#fff5b5', // Red
-                "#faf8b4", "#f7f6c6", // Orange
-                "#faf20c", "#fcfce1"];// Yellow
+  var colors = ['#2ecc71', '#27ae60', // Green
+                '#1abc9c', '#16a085', // Turquoise
+                '#3498db', '#2980b9', // Blue
+                '#9b59b6', '#8e44ad', // Purple
+                '#e74c3c', '#c0392b', // Red
+                '#e67e22', '#d35400', // Orange
+                '#f1c40f', '#f39c12'];// Yellow
 
   var textShadow = function(x, y, color) {
     x *= 0.0078125; /// 1 / 128 = 0.0078125
