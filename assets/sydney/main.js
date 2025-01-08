@@ -9,9 +9,10 @@
                 '#75c48b', '#77c6a7', // Turquoise
                 '#77cac4', '#7abbcb', // Blue
                 '#c9c5d9', '#bebbcb', // Purple
-                '#f3d5a1', '#f7c792', // Red
-                '#ebeda1', '#f1e19a', // Orange
-                '#bedb6d', '#9bcd6f'];// Yellow
+                '#e8cbc1', '#e09484', // Red
+                '#f3d5a1', '#f7c792', // Orange
+                '#ebeda1', '#f1e19a']; // Yellow
+
 
   var textShadow = function(x, y, color) {
     x *= 0.0078125; /// 1 / 128 = 0.0078125
