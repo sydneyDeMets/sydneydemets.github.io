@@ -5,11 +5,11 @@
 
   var sydney = document.getElementsByClassName('sydney')[0];
 
-  var colors = ['#86C76D', '#74c277', // Green
+  var colors = ['#cdd579', '#add06e', // Green
                 '#75c48b', '#77c6a7', // Turquoise
                 '#77cac4', '#7abbcb', // Blue
                 '#c9c5d9', '#bebbcb', // Purple
-                '#e8cbc1', '#e09484', // Red
+                '#e8cbc1', '#e8bdae', // Red
                 '#f3d5a1', '#f7c792', // Orange
                 '#ebeda1', '#f1e19a']; // Yellow
 
