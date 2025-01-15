@@ -1,7 +1,7 @@
 html {
   position: relative;
   z-index: 1;
-  background: #9294a8;
+  background: #507592;
   color: #fff;
   font-family: "roboto-mono", monospace;
   font-size: 18px;
@@ -24,7 +24,7 @@ canvas {
   z-index: 3;
   padding-top: 32px;
   text-align: center;
-  font-family: "belwe", serif;
+  font-family: "Archer", bold;
   font-size: 128px;
   font-weight: 900;
   color: #fff;
