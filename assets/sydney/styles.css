@@ -1,7 +1,7 @@
 html {
   position: relative;
   z-index: 1;
-  background: #507592;
+  background: #60627b;
   color: #fff;
   font-family: "roboto-mono", monospace;
   font-size: 18px;
@@ -24,7 +24,7 @@ canvas {
   z-index: 3;
   padding-top: 32px;
   text-align: center;
-  font-family: "Archer", bold;
+  font-family: "belwe", serif;
   font-size: 128px;
   font-weight: 900;
   color: #fff;
@@ -54,13 +54,14 @@ a {
 }
 
 a:hover {
-  background: linear-gradient(to right, #e74c3c 14%,
-                                        #e67e22 14%, #e67e22 29%,
-                                        #f1c40f 29%, #f1c40f 43%,
-                                        #2ecc71 43%, #2ecc71 57%,
-                                        #1abc9c 57%, #1abc9c 71%,
-                                        #3498db 71%, #3498db 86%,
-                                        #9b59b6 86%);
+  background: linear-gradient(to right, #e8cbc1 14%,
+                                        #e8bdae 14%, #f3d5a1 29%,
+                                        #f7c792 29%, #ebeda1 43%,
+                                        #f1e19a 43%, #cdd579 57%,
+                                        #add06e 57%, #75c48b 71%,
+                                        #77c6a7 71%, #77cac4 86%,
+                                        #bebbcb 86%);
+  
   background-size: 80px auto;
   text-shadow: 1px 1px 1px #000;
 }
@@ -84,31 +85,31 @@ ul li::before {
 }
 
 ul li:nth-child(7n+1)::before {
-  color: #e74c3c;
+  color: #e8bdae;
 }
 
 ul li:nth-child(7n+2)::before {
-  color: #e67e22;
+  color: #f7c792;
 }
 
 ul li:nth-child(7n+3)::before {
-  color: #f1c40f;
+  color: #f1e19a;
 }
 
 ul li:nth-child(7n+4)::before {
-  color: #2ecc71;
+  color: #add06e;
 }
 
 ul li:nth-child(7n+5)::before {
-  color: #1abc9c;
+  color: #77c6a7;
 }
 
 ul li:nth-child(7n+6)::before {
-  color: #3498db;
+  color: #7abbcb;
 }
 
 ul li:nth-child(7n+7)::before {
-  color: #9b59b6;
+  color: #bebbcb;
 }
 
 
